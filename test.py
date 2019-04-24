@@ -1,6 +1,7 @@
 # Napiši program, ki izpiše prvih 200 praštevil
 
-def je_pqaswdfghjkrastevilo(n):
+
+def je_prastevBarbarAilo(n):
     for i in range(2, n):
         if n % i == 0:
     return True
